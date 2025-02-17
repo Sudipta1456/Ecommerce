@@ -1,5 +1,5 @@
 # E-CommerceWebsite
- A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
+ A mobile-friendly e-commerce website built with HTML, CSS, JavaScript, and APIs for seamless user experience across devices
  
  
  
